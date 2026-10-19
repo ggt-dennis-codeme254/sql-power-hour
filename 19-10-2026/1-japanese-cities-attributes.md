@@ -2,7 +2,7 @@
 
 Link: [Hackerrank](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true)
 
-Difficulty: Easy/Medium/Hard
+Difficulty: Easy
 
 DB Engine: MySQL
 
