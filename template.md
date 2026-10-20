@@ -4,7 +4,7 @@ Link:
 
 Difficulty: Easy/Medium/Hard
 
-DB Engine:
+DB Engine: MySQL
 
 ## Intuition
 
