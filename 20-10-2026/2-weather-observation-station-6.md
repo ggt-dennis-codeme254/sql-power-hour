@@ -2,7 +2,7 @@
 
 Link: [Hackerrank](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true)
 
-Difficulty: Easy/Medium/Hard
+Difficulty: Easy
 
 DB Engine: MySQL
 
