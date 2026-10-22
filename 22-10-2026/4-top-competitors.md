@@ -1,8 +1,8 @@
 # Question Name
 
-Link:
+Link: [Hackerrank](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true)
 
-Difficulty: Easy/Medium/Hard
+Difficulty: Medium
 
 DB Engine: MySQL
 
