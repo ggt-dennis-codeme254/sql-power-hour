@@ -1,4 +1,4 @@
-# Question Name
+# Top Competitors
 
 Link: [Hackerrank](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true)
 
