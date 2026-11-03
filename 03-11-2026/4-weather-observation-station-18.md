@@ -12,6 +12,8 @@ DB Engine: MS SQL Server
 - c = MAX(LAT_N)
 - d = MAX(LONG_W)
 - Manhattan distance = | a - c | + | b - d |
+- Manhattan distance = ABS(MIN(LAT_N) - MAX(LAT_N)) + ABS(MIN(LONG_W) - MAX(LONG_W))
+- Round the result above to a scale of 4 dp.
 
 ## Solution
 ```sql
